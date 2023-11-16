@@ -13,7 +13,7 @@ Firmware download address: https://www.tenda.com.cn/download/detail-2570.html
 
  Vulnerability Location: /goform/wifiSSIDget
 
- the length of the ndex parameter is not verified, sprintf can cause stack overflow vulnerability, it can result in dos attacks on routers
+ The length of the ndex parameter is not verified, sprintf can cause stack overflow vulnerability, it can result in dos attacks on routers
 
  <img width="416" alt="image" src="https://github.com/daodaoshao/vol_tenda_i6_1/assets/9769854/3d553aaa-c697-4ef4-9316-00db720bc121">
 
